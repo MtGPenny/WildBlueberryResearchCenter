@@ -30,7 +30,7 @@
                     $headers = 'From: ' . $email . "\r\n" .
                         'Reply-To: ' . $email . "\r\n" .
                         'X-Mailer: PHP/' . phpversion();
-                    mail('matthewpenny2008@hotmail.com', $subject, $name, $comment);
+                    mail('email123@gmail.com', $subject, $name, $comment);
                     ?>
                     <br/>
                     <div class="alert alert-success alert-dismissible fade in">
@@ -98,7 +98,7 @@
     <p></p>
     <b>David Percival</b>
     <p>Department of Environmental Sciences <br/>
-        Email: <a href="mailto:david.percival@dal.ca"> david.percival@dal.ca </a>
+        Email: <a href="mailto:email123@gmail.com"> email123@gmail.com </a>
         <br/>Phone: (902) 893-7852
     </p>
     <p></p>
